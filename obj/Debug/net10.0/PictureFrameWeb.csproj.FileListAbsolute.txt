@@ -30,3 +30,4 @@ D:\Picture Frame\Web\obj\Debug\net10.0\ref\PictureFrameWeb.dll
 D:\Picture Frame\Web\obj\Debug\net10.0\compressed\iy13myf3ei-{0}-4oml10muvx-4oml10muvx.gz
 D:\Picture Frame\Web\obj\Debug\net10.0\compressed\gvh9w9x35w-{0}-aaf5sfgj0s-aaf5sfgj0s.gz
 D:\Picture Frame\Web\obj\Debug\net10.0\compressed\hz4npw9879-{0}-4d4culrodb-4d4culrodb.gz
+D:\Picture Frame\Web\obj\Debug\net10.0\PictureFrameWeb.sourcelink.json
